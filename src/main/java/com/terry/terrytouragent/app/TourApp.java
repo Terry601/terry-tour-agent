@@ -115,7 +115,7 @@ public class TourApp {
         return loveReport;
     }
 
-    // AI 恋爱知识库问答功能
+    // AI 旅游规划知识库问答功能
 
     @Resource
     private VectorStore loveAppVectorStore;
